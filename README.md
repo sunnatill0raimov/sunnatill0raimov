@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sunnatillo Raimov</h1>
+<h3 align="center">🚀 Fullstack & Frontend Developer</h3>
 
-<!--
-**sunnatill0raimov/sunnatill0raimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💻 Full Stack & Frontend Developer
+* 🌱 Learning new technologies everyday
+* 🎯 Goal: Build impactful products
+
+---
+
+### 🚀 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git,github,linux,html,css" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=RAIMOVV38&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+### 🔥 Streak Stats
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=RAIMOVV38&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Connect with me
+
+* LinkedIn: https://www.linkedin.com/in/sunnatillo-raimov-5372ba382
+* Instagram: https://www.instagram.com/raimovv_38
