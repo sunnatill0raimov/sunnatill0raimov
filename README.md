@@ -17,13 +17,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sunnatill0raimov&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ### 🔥 Streak Stats
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=sunnatill0raimov&theme=tokyonight" />
