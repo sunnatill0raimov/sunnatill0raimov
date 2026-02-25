@@ -3,6 +3,12 @@
 
 ---
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Frontend+developer;Always+Learning" />
+</p>
+
+---
+
 ### 👨‍💻 About Me
 - 💻 Full Stack & Frontend Developer  
 - 🌱 Learning new technologies everyday  
@@ -30,6 +36,3 @@
 
 ---
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Open+Source+Lover;Always+Learning" />
-</p>
