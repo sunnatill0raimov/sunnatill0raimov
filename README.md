@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sunnatillo Raimov</h1>
-<h3 align="center">🚀 Fullstack & Frontend Developer</h3>
-
 ---
 
 <p align="center">
