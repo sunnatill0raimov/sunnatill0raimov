@@ -27,3 +27,9 @@
 ### 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/sunnatillo-raimov-5372ba382  
 - Instagram: https://www.instagram.com/raimovv_38
+
+---
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Open+Source+Lover;Always+Learning" />
+</p>
