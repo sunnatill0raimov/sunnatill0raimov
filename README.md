@@ -22,7 +22,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RAIMOVV38&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=sunnatillOraimov&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -30,7 +30,7 @@
 ### 🔥 Streak Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=RAIMOVV38&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=sunnatillOraimov&theme=tokyonight" />
 </p>
 
 ---
