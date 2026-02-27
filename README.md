@@ -30,6 +30,7 @@
 ### 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/sunnatillo-raimov-5372ba382  
 - Instagram: https://www.instagram.com/raimovv_38
+- Gmail: sunnatilloraimov660@gmail.com
 
 ---
 
