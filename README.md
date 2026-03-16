@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sunnatillo Raimov</h1>
+<h1 align="center">I'm Sunnatillo Raimov</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Frontend+developer;Always+Learning" />
